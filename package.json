@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
-    "@contentstack/json-rte-serializer": "^2.0.6"
+    "@contentstack/json-rte-serializer": "^2.0.6",
+    "vercel": "^33.6.3"
   },
   "devDependencies": {
     "@types/node": "^18.x",
